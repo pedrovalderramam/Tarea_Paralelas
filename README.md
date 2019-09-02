@@ -7,6 +7,6 @@ el problema está en leer este archivo ya que pesa casi 4Gb.
 No se incluye el archivo Matrices.txt en el repositorio debido a su peso.
 
 Autor(es):
-Daniela G.
-Alexandra O.
+Daniela G. -
+- Alexandra O.
 Pedro V. 
